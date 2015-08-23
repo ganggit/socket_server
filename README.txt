@@ -13,3 +13,4 @@ for client: ./client 127.0.0.1 9999
 
 4. any comments are welcome
 
+5. multithread.cpp: a simple multiple threading code to do summation
